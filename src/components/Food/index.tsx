@@ -11,7 +11,6 @@ interface Ifood {
   price: number;
   available: boolean;
   image: string;
-
 }
 
 interface FoodProps {
